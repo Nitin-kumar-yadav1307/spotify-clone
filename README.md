@@ -1,1 +1,1 @@
-this clone of spotify's home page
+this is clone of spotify's home page
